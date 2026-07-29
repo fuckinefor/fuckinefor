@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [gunslol](https://guns.lol/prettyprey)
+  [gunslol](https://guns.lol/prettyprey)  ݁ᛪ༙ [/prettyprey](https://rentry.co/prettyprey)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
