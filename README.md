@@ -2,6 +2,8 @@
 <div align="center">
   
   [gunslol](https://guns.lol/prettyprey)  ݁ᛪ༙ [/prettyprey](https://rentry.co/prettyprey)
+  
+![Github Views](https://views.igorkowalczyk.dev/api/badge/prettyprey?label=vamps&style=classic&format=long&color=black)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
