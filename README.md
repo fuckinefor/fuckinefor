@@ -11,7 +11,9 @@
   </a>
 </p>
 <p align="center"> 
-claudia or jude
+toni⠀ ⠀ ⠀ ⠀⠀or⠀ ⠀ ⠀ ⠀⠀jude
   
-  <p align="center"> 
-mascfem boygirl
+<div align="center">
+  
+◞ [@2emorse's](https://github.com/2emorse) ⠀ ⠀bf
+<p align="center">
