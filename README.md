@@ -14,6 +14,4 @@
 toni⠀ ⠀ ⠀ ⠀⠀or⠀ ⠀ ⠀ ⠀⠀jude
   
 <div align="center">
-  
-◞ [@2emorse's](https://github.com/2emorse) ⠀ ⠀bf
-<p align="center">
+
