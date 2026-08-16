@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [gunslol](https://guns.lol/prettyprey)  ݁ᛪ༙ [/prettyprey](https://rentry.co/prettyprey)
+  [gunslol](https://guns.lol/prettyprey)  ݁ᛪ༙ 
   
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/prettyprey?label=vamps&style=classic&format=long&color=black)
 
