@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  [gunslol](https://guns.lol/fuckinneforr)  ݁ᛪ༙ 
+  [gunslol](https://guns.lol/fuckinneforr)  ݁𓊆ྀི❤︎𓊇ྀི  [rentry](https://rentry.co/fucknnefore)
   
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/prettyprey?label=hammers&style=classic&format=long&color=black)
 
