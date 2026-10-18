@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center"> 
-viy⠀ ⠀ ⠀ ⠀⠀or⠀ ⠀ ⠀ ⠀⠀kita
+fedir⠀ ⠀ ⠀ ⠀⠀or⠀ ⠀ ⠀ ⠀⠀kita
   
 <div align="center">
 
