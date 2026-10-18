@@ -3,7 +3,7 @@
   
   [gunslol](https://guns.lol/fuckinneforr)  ݁ᛪ༙ 
   
-![Github Views](https://views.igorkowalczyk.dev/api/badge/prettyprey?label=vamps&style=classic&format=long&color=black)
+![Github Views](https://views.igorkowalczyk.dev/api/badge/prettyprey?label=hammers&style=classic&format=long&color=black)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
